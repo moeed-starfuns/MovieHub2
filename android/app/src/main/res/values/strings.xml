@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MovieHub</string>
+    <color name="ic_launcher_background">#a1a0a1</color>
+
+    
+<string name="facebook_app_id">1781107552424791</string>
+<string name="fb_login_protocol_scheme">fb1234</string>
+<string name="facebook_client_token">1fc39c223290af7286eee2fb1eff930a</string>
+
+
+</resources>
